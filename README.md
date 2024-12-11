@@ -1,2 +1,2 @@
-# Spotify-Clone-using-HTML--CSS---JavaScript
+# Spotify-Clone
  created the spotify clone using HTML, CSS, Javascript
